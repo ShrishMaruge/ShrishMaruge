@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 About Me
-
+- 📚 I'm currently pursuing B.Tech in AI & ML (2023–2027) in Hyderabad.
 - 🎓 I'm a developer who turns ideas into real-world tech products.
 - 🧠 Passionate about ML, full-stack web dev, and building for a smarter world.
 - 🛠️ Experienced with hackathons and research projects.
