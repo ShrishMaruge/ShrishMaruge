@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shrish Maruge</h1>
-<h3 align="center">💻 ML Enthusiast | 🛠️ Full-Stack Developer | 🚀 Tech Explorer</h3>
+<h3 align="center">💻 ML Enthusiast | 🛠️ Python Full-Stack Developer | 🚀 Tech Explorer | BTech CSE(AI & ML)2023-2027</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;AI+%7C+Web+%7C+ML+%7C+Data+Science;Let's+build+something+great+💡;Open+for+Internships+and+Innovations" alt="Typing SVG" />
