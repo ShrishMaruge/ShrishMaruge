@@ -47,7 +47,9 @@
   <a href="mailto:shrish.maruge99@gmail.com"><img src="https://img.shields.io/badge/email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/shrishmaruge/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/ShrishMaruge"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://shrishmaruge.github.io/My_Portfolio/" target="_blank"><img src="https://img.shields.io/badge/portfolio-%23ff5f5f.svg?&style=for-the-badge&logo=web&logoColor=white" /></a>
+  <a href="https://shrishmaruge.github.io/My_Portfolio/" target="_blank"><img src="https://img.shields.io/badge/portfolio-%23ff5f5f.svg?&style=for-the-badge&logo=web&logoColor=white" />
+    
+  </a>
 </p>
 
 ---
@@ -60,7 +62,7 @@
   </a>
   <a href="https://github.com/ShrishMaruge">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=ShrishMaruge&theme=tokyonight&hide_border=false&border_radius=15" width="48%"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=ShrishMaruge&theme=tokyonight&hide_border=false&border_radius=15" width="48%" alt="Shrish's GitHub streak stats"/>
+    
   </a>
 </p>
 
