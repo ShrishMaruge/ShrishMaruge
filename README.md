@@ -60,6 +60,7 @@
   </a>
   <a href="https://github.com/ShrishMaruge">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=ShrishMaruge&theme=tokyonight&hide_border=false&border_radius=15" width="48%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=ShrishMaruge&theme=tokyonight&hide_border=false&border_radius=15" width="48%" alt="Shrish's GitHub streak stats"/>
   </a>
 </p>
 
